@@ -1,1 +1,1 @@
-# day2SpringBoot
+Spring Boot is an advanced framework built on top of the Spring Framework, designed to simplify Java application development, especially for web applications. It provides built-in configurations, embedded servers, and a streamlined setup process. A core feature of Spring Boot is its integration with the Model-View-Controller (MVC) architecture, which is widely used for scalable web applications.
